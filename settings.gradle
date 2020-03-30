@@ -1,0 +1,2 @@
+rootProject.name='ViewCollections'
+include ':app'
